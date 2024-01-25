@@ -131,6 +131,7 @@ foreach ($result as $record) {
       </tbody>
     </table>
   </fieldset>
+  <a href="send_sample.php">サンプル手配</a>
 </body>
 
 </html>
